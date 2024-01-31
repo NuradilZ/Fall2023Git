@@ -1,0 +1,24 @@
+Index: .idea/shelf/Uncommitted_changes_before_Checkout_at_31_1_24,_12_04_[Changes]/shelved.patch
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_1_24,_12_04_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_1_24,_12_04_[Changes]/shelved.patch
+new file mode 100644
+--- /dev/null	
++++ b/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_1_24,_12_04_[Changes]/shelved.patch	
+@@ -0,0 +1,12 @@
++Index: src/Mazda.java
++IDEA additional info:
++Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
++<+>package PACKAGE_NAME;public class Mazda {\n}\n
++===================================================================
++diff --git a/src/Mazda.java b/src/Mazda.java
++--- a/src/Mazda.java	
+++++ b/src/Mazda.java	
++@@ -1,2 +1,2 @@
++-package PACKAGE_NAME;public class Mazda {
+++public class Mazda {
++ }
+diff --git a/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_1_24,_12_04_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Checkout_at_31_1_24,_12_04_[Changes]1/shelved.patch
+new file mode 100644
